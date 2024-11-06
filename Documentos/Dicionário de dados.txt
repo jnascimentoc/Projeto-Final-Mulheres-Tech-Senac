@@ -1,0 +1,65 @@
+Dicionário de dados:
+
+1. cisp: Circunscrições Integradas de Segurança Pública 
+2. mes: Mês do registro
+3. ano: Ano
+4. mes_ano: Mês e ano do registro
+5. aisp: Áreas Integradas de Segurança Pública (Delagacias)
+6. risp: Regiões Integradas de Segurança Pública
+7. munic: Município do Rio de Janeiro
+8. mcirc: Código da cidade junto ao IBGE (7 números)
+9. regiao: Região
+10. hom_doloso: Homicídio doloso
+11. lesao_corp_morte: Lesão corporal seguida de morte
+12. latrocinio: Roubo seguido de morte
+13. cvli: Crimes violentos letais intencionais
+14. hom_por_interv_policial: Homicídio por intervenção policial
+15. letalidade_violenta: Morte violenta
+16. tentat_hom: Tentativa de homicídio
+17. lesao_corp_dolosa: Lesão corporal dolosa
+18. estupro: Estupro
+19. hom_culposo: Homicídio culposo
+20. lesao_corp_culposa: Lesão corporal culposa
+21. roubo_transeunte: Roubo a transeunte
+22. roubo_celular: Roubo de celular
+23. roubo_em_coletivo: Roubo em coletivo
+24. roubo_rua: Roubo na rua
+25. roubo_veiculo: Roubo de veículo
+26. roubo_carga: Roubo de carga
+27. roubo_comercio: Roubo de comércio
+28. roubo_residencia: Roubo a residência
+29. roubo_banco: Roubo a banco
+30. roubo_cx_eletronico: Roubo de caixa eletrônico
+31. roubo_conducao_saque: Roubo condução saque
+32. roubo_apos_saque: Roubo após saque
+33. roubo_bicicleta: Roubo de bicicleta
+34. outros_roubos: Outros roubos
+35. total_roubos: Total de roubos
+36. furto_veiculos: Furto de veículos
+37. furto_transeunte: Furto de pedestres
+38. furto_coletivo: Furto em coletivo
+39. furto_celular: Furto de celular
+40. furto_bicicleta: Furto de bicicleta
+41. outros_furtos: Outros furtos
+42. total_furtos: Total de furtos
+43. sequestro: Sequestro
+44. extorsao: Extorsão
+45. sequestro_relampago: Sequestro relâmpago
+46. estelionato: Estelionato
+47. apreensao_drogas: Apreensão de drogas
+48. posse_drogas: Posse de drogas
+49. trafico_drogas: Tráfico de drogas
+50. apreensao_drogas_sem_autor: Apreensão de drogas sem autor
+51. recuperacao_veiculos: Recuperação de veículos
+52. apf: Auto de prisão em flagrante
+53. aaapai: Auto de infração de adolescente por ato infracional
+54. cmp: Cumprimento de mandado de prisão
+55. cmba: Cumprimento de mandado de busca e apreensão
+56. ameaca: Ameaça
+57. pessoas_desaparecidas: Pessoas desaparecidas
+58. encontro_cadaver: Encontro de cadáver
+59. encontro_ossada: Encontro de ossada
+60. pol_militares_mortos_serv: Policiais militares mortos em serviço
+61. pol_civis_mortos_serv: Policiais civis mortos em serviço
+62. registro_ocorrencias: Registro de ocorrências
+63. fase: Fase da operação (2 ou 3, com ou sem errata)
