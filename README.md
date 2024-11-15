@@ -1,6 +1,6 @@
 # 👋 Olá! Bem vindo ao repositório do nosso projeto
 
-📊 **Liga dos dadoss**  
+📊 **Liga dos dados**  
 
 ## Sobre o projeto
 Aplicação de técnicas estatísticas exploratórias para entender a distribuição e a variabilidade dos dados.
