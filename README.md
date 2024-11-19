@@ -21,7 +21,7 @@ Definição da montagem e organização visual a ser trabalhada.
 - Instrutor: Douglas Klem
 
 ### 🔍 Fontes
-Os dados são extraídos diretamente da base do ISP, no seguinte link:
+
 📊 Dados do ISP - Evolução Mensal por CISP
 Conteúdo: Informações sobre tipos de ocorrência, localização, datas e outras variáveis relevantes para análise de segurança.
 
